@@ -4,6 +4,8 @@
 
 In this guide, we’ll cover everything you need to know about JJSploit – from features and installation to comparisons and tips.
 
+[![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-blueviolet)](https://rotools.bitbucket.io/executors/jjsploit)
+
 ---
 
 ## 💡 What is JJSploit Executor?
